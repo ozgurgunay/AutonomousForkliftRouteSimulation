@@ -232,7 +232,7 @@ def update(frame):
     return list(markers.values())
 
 
-# Start the Animation
+# simulation
 
 ani = animation.FuncAnimation(
     fig, update,
