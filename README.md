@@ -18,5 +18,5 @@ This project simulates the movement of driverless forklifts operating along pre-
 ## Getting Started
 ### Prerequisites
 
-- Python 3.
+- Python 3.13
 - Required libraries: matplotlib, numpy, random
